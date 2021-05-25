@@ -27,16 +27,16 @@ function NavBar(props) {
                 <li className="nav-item">
                 <a className="nav-link active" aria-current="page" href="https://github.com/mattjb97">GitHub</a>
                 </li>
-                {/* <li className="nav-item dropdown">
+                <li className="nav-item dropdown">
                 <a className="nav-link dropdown-toggle" href="/" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                     Networks
                 </a>
                 <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <li><a className="dropdown-item" href="https://www.linkedin.com/in/matthew-bohl-93785a127/">LinkedIn</a></li>
+                    <li><a className="dropdown-item" href="">Certificates</a></li>
                     <li><hr className="dropdown-divider"></hr></li>
-                    <li><a className="dropdown-item" href="https://github.com/mattjb97">GitHub</a></li>                     
+                    <li><a className="dropdown-item" href="/">Resume</a></li>                     
                 </ul>
-                </li> */}
+                </li>
              
             </ul>
             </div>

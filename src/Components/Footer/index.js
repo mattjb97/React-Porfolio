@@ -4,24 +4,13 @@ import "./Footer.css"
 
 
 function Footer() {
-    
-      
-    return(
-        <ul class="nav justify-content-center">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Active</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-        </li>
-      </ul>
-    )
+
+
+  return (
+    <div class="alert alert-info" role="alert">
+     Matthew J Bohl 
+    </div>
+  )
 }
 
 export default Footer

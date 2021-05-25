@@ -7,7 +7,7 @@ function ContactMe() {
     
       
     return(
-        <form id="contact-form">
+        <form className="ContactMe" id="contact-form">
         <div className="form-group">
             <label htmlFor="name">Name</label>
             <input type="text" className="form-control" />
